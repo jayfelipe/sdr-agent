@@ -1,0 +1,14 @@
+[
+  {
+    "lead_name": "Marcus Johnson",
+    "lead_company": "DataDrive",
+    "lead_title": "CTO",
+    "context_expected": "DataDrive is a FinTech company of size 200-500 using Zendesk and Stripe. They do not need fleet tracking, but they need predictive inventory management and automated vendor communication."
+  },
+  {
+    "lead_name": "Emily Davis",
+    "lead_company": "Innovatech",
+    "lead_title": "Head of Operations",
+    "context_expected": "Innovatech is an E-commerce company of size 50-200 using HubSpot and Shopify. The Starter or Pro plan is best for them."
+  }
+]

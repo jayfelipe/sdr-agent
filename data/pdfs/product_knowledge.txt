@@ -1,0 +1,11 @@
+NexusAI Product Information
+NexusAI is a B2B SaaS platform designed to automate supply chain logistics. 
+Our main features include predictive inventory management, automated vendor communication, and real-time fleet tracking.
+Pricing:
+- Starter Plan: $99/month. Includes basic inventory tracking and email support. Up to 1,000 SKUs.
+- Pro Plan: $299/month. Includes predictive analytics, API access, and priority support. Up to 10,000 SKUs.
+- Enterprise Plan: Custom pricing. Includes real-time fleet tracking, dedicated account manager, and custom integrations. Unlimited SKUs.
+Recent Case Study:
+We helped "GlobalTech Industries" reduce their supply chain costs by 23% in 6 months using our predictive analytics module. They upgraded from the Pro to the Enterprise plan to get the fleet tracking feature.
+Important Notes:
+NexusAI does not currently support blockchain or crypto payments. All payments are processed via standard credit card or ACH.

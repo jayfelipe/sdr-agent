@@ -107,10 +107,10 @@ def run_evaluation():
         )
 
         if hal_pass and rel_pass:
-            print("✅ TEST PASSED")
+            print("TEST PASSED :)")
         else:
             print(
-                "❌ TEST FAILED - Agent needs prompt tuning "
+                "TEST FAILED :("
                 "(Likely due to RAG context mismatch)"
             )
 

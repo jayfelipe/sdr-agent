@@ -244,9 +244,9 @@ PASS
 Clone the repository.
 
 ```bash
-git clone https://github.com/yourusername/ai-sdr-agent.git
+git clone https://github.com/jayfelipe/sdr-agent
 
-cd ai-sdr-agent
+cd sdr-agent
 ```
 
 Create a virtual environment.

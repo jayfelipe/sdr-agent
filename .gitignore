@@ -1,0 +1,17 @@
+# virtual
+venv/
+
+# DataBase
+data/db/
+
+# Variables 
+.env
+
+# Files of Windows
+Thumbs.db
+Desktop.ini
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
